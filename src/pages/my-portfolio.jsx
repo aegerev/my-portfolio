@@ -3,6 +3,7 @@ function myPortfolio() {
 
     return (
         <>
+        
    {/* START OF TABLE HEADER */}   
 <table>
   <tr>
