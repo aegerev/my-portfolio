@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../components/footer';
 import ProfilePic from '../assets/images/profilepic.jpg';
 import RowanOwl from '../assets/images/rowan.png';
 import TripleC from '../assets/images/camdencc.png';
