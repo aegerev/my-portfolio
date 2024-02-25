@@ -16,7 +16,7 @@ function aboutMe() {
 
                         <div className='card-body'>
                             <div className="row abstract-back ">
-                                <img className='avatar' src={ProfilePic} />
+                                <img className='avatar' src={ProfilePic}/>
                             </div>
                         </div>
 
