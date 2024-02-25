@@ -1,20 +1,18 @@
 import React from 'react';
-//import '../App.css';
-//import '../portfolio.css';
+import '../footer.css';
 
-function ProjectCards(props) {
+function Footer() {
     return (
-        <div className={`grid-item gallery__item--${props.id}`}>
-            <img src={props.image} alt={props.name}
-                 className="gallery__img"/>
-            <div className="desc">
-                <h5>{props.name}</h5>
+        <div className="footer" id="footer">
+            <div className='img-link'>
+                <a href="https://github.com/upennbootcamp23" target="_blank"><img src="https://img.icons8.com/color/48/000000/github-2.png" alt="Github" className="icon"/></a>
             </div>
+            <p className='footer-info'>
+                &copy; 2024 Alexander Egerev  |  <a href="https://github.com/priyaravi23/react-portfolio/raw/master/src/assets/priya-resume.pdf" className="link">download resume</a>  |  <a href="https://coolors.co/f06543-e8e9eb-e0dfd5-313638-f09d51">color palette</a>  |  made with <img id="react-icon" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+            </p>
 
-            <div className='dep-links'>
-                <a href={props.github} target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Repository" id="project-icon"/></a>
-                <a href={props.deploy} target="_blank"><img src="https://img.icons8.com/color/48/000000/monitor.png" alt="Deployed Site" id="project-icon"/></a>
-            </div>
         </div>
-    );
+    )
 }
+
+export default Footer;
