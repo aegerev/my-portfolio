@@ -5,7 +5,6 @@ import About from './pages/about-me.jsx';
 import Contact from './pages/contact-me.jsx';
 import Portfolio from './pages/my-portfolio.jsx';
 import CurriculumVitae from './pages/resume.jsx'
-import ContactForm from './pages/contact-form.jsx'
 import './index.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css'
