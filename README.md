@@ -33,7 +33,9 @@ The link to the help is https://github.com/priyaravi23/react-portfolio
 
 2. I had trouble seeing the site on my local machine. Anthony Maddatu helped me with rebooting the website from the very start. That allowed me to create a brand-new version of the website. Thanks!
 
-3. All colors were 
+3. All colors were made possible by Coolors. The link is https://coolors.co/user/palettes/65d80721e065df000b499083.
+
+4. Can you blame me? I tried using different colors, instead of Bootstrap. Luckily, my friends from PBS KIDS helped me out with that! The PDF is https://pbs-kids-brand.pbskids.org/downloads/pbs-kids-style-guide.pdf.
 
 ## License
 Please refer to the LICENSE in the repo.
