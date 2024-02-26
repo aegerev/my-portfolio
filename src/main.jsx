@@ -6,7 +6,6 @@ import Contact from './pages/contact-me.jsx';
 import Portfolio from './pages/my-portfolio.jsx';
 import CurriculumVitae from './pages/resume.jsx'
 import './index.css'
-//import './components/footer.jsx'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css'
 const router = createBrowserRouter([
