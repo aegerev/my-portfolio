@@ -55,7 +55,7 @@ function aboutMe() {
 
                                 <div className="grid-item">
                                     <div className='university'>Camden County College</div>
-                                    <div className='concentration'>Master of Science in Medical Product Engineering</div>
+                                    <div className='concentration'>Associate in Applied Science - Computer Information Systems</div>
                                 </div>
 
                                 <div className="grid-item">

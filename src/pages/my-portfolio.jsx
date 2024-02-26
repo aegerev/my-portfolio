@@ -77,7 +77,7 @@ function myPortfolio() {
   <tr>
     <td>SVG Generator</td>
     <td><a href="https://github.com/upennbootcamp23/egerev_SVG-generator">Github Repository</a></td>
-    <td><a href="N/A">Deployed Link</a></td>
+    <td><a href="N/A"></a></td>
   </tr>
 
   <tr>
@@ -89,27 +89,14 @@ function myPortfolio() {
   <tr>
     <td>Job Generator</td>
     <td><a href="https://github.com/upennbootcamp23/egerev_MySQL-job-generator">Github Repository</a></td>
-    <td><a href="N/A">Deployed Link</a></td>
+    <td><a href="N/A"></a></td>
   </tr>
 
   <tr>
     <td>E-Commerce, One Piece Style</td>
     <td><a href="https://github.com/upennbootcamp23/egerev_MySQL-job-generator">Github Repository</a></td>
-    <td><a href="N/A">Deployed Link</a></td>
+    <td><a href="N/A"></a></td>
   </tr>
-
-  <tr>
-    <td>SVG Generator</td>
-    <td><a href="https://github.com/upennbootcamp23/egerev_SVG-generator">Github Repository</a></td>
-    <td><a href="N/A">Deployed Link</a></td>
-  </tr>
-
-  <tr>
-    <td>The Online Note Taker</td>
-    <td><a href="https://github.com/upennbootcamp23/egerev_note-taker-refactored">Github Repository</a></td>
-    <td><a href="https://egerev-note-taker-refactored-e24096d10342.herokuapp.com/">Deployed Link</a></td>
-  </tr>
-
   <tr>
     <td>One Piece Blog</td>
     <td><a href="https://github.com/upennbootcamp23/egerev_CMS-blog-site">Github Repository</a></td>
@@ -125,7 +112,7 @@ function myPortfolio() {
   <tr>
     <td>RegEX</td>
     <td><a href="https://gist.github.com/upennbootcamp23">Github Repository</a></td>
-    <td><a href="N/A">Deployed Link</a></td>
+    <td><a href="N/A"></a></td>
   </tr>
 
   <tr>
