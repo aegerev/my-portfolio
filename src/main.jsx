@@ -7,6 +7,7 @@ import Portfolio from './pages/my-portfolio.jsx';
 import CurriculumVitae from './pages/resume.jsx'
 import './index.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import './components/footer.jsx';
 import 'bootstrap/dist/css/bootstrap.min.css'
 const router = createBrowserRouter([
   {

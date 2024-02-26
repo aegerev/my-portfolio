@@ -1,0 +1,81 @@
+:root {
+    --yellow:#F7E03B;
+    --sun:#F5B338;
+    --ariel-red:#EC2020;
+    --pbs-kids:#00AB4E;
+    --chris-kratt: #1A8549;
+}
+
+.img-link {
+    text-align: center;
+}
+
+.footer-info {
+    font-size: 24px;
+    color: var(--yellow);
+    font-weight: bold;
+    background-color: var(--sun);
+    text-align: center;
+}
+
+h1 {
+    margin: auto 30px;
+    padding: 10px;
+    color: var(--pbs-kids);
+    font-weight: bold;
+}
+
+#topics {
+    font-size: small;
+    font-style: italic;
+    color: var(--pbs-kids);
+}
+
+#card-title {
+    margin-top: 10px;
+    color: var(--pbs-kids);
+    text-shadow: 1px 1px 6px var(--chris-kratt);
+}
+
+#footer {
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.icon {
+    padding: 10px;
+}
+
+#contact-section {
+    justify-content: center;
+    margin: 20px;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+.error-text {
+    color: var(--yellow);
+}
+
+#footer {
+    background-color: var(--pbs-kids);
+}
+
+#footer .icon {
+    background-color: var(--pbs-kids);
+    margin-top: 20px;
+}
+
+#footer p {
+    background-color: var(--pbs-kids);
+    margin-top: 8px;
+}
+
+#footer a {
+    text-decoration: none;
+    color: var(--yellow);
+}
+
+#react-icon {
+    background-color: var(--pbs-kids);
+}
