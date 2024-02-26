@@ -15,8 +15,8 @@ function myPortfolio() {
 
   <tr>
     <td>JRH Electronics</td>
-    <td>N/A</td>
-    <td><a href="https://jrhelec.com/">JRH Electronics</a></td>
+    <td><a href=""></a></td>
+    <td><a href="https://jrhelec.com/">Deployed Link</a></td>
   </tr>
 
   <tr>
