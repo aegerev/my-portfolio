@@ -127,6 +127,12 @@ function myPortfolio() {
     <td><a href="https://aegerevportfolio.netlify.app/">Deployed Link</a></td>
   </tr>
 
+  <tr>
+    <td>My Grown-Up Portfolio</td>
+    <td><a href="https://github.com/upennbootcamp23/my-portfolio">Github Repository</a></td>
+    <td><a href="https://aegerevportfolio.netlify.app/">Deployed Link</a></td>
+  </tr>
+  
 </table>
 
         
