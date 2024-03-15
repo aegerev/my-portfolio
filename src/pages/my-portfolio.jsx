@@ -128,8 +128,8 @@ function myPortfolio() {
   </tr>
 
   <tr>
-    <td>My Grown-Up Portfolio</td>
-    <td><a href="https://github.com/upennbootcamp23/my-portfolio">Github Repository</a></td>
+    <td>Art Trivia Game</td>
+    <td><a href="https://art-trivia-game.onrender.com/">Github Repository</a></td>
     <td><a href="https://aegerevportfolio.netlify.app/">Deployed Link</a></td>
   </tr>
   
