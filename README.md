@@ -42,4 +42,4 @@ The link to the help is https://github.com/priyaravi23/react-portfolio
 Please refer to the LICENSE in the repo.
 
 ## Link to website
-The link to the website is https://egerev-just-another-text-editor.onrender.com/
+The link to the website is https://aegerevportfolio.netlify.app/

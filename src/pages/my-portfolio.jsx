@@ -127,6 +127,12 @@ function myPortfolio() {
     <td><a href="https://aegerevportfolio.netlify.app/">Deployed Link</a></td>
   </tr>
 
+  <tr>
+    <td>Art Trivia Game</td>
+    <td><a href="https://github.com/ashleyh5440/art-trivia-game">Github Repository</a></td>
+    <td><a href="https://art-trivia-game.onrender.com/">Deployed Link</a></td>
+  </tr>
+  
 </table>
 
         
