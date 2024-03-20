@@ -274,9 +274,9 @@ li {
 
 .avatar {
   vertical-align: middle;
-  width: 170px;
-  height: 270px;
-  border-radius: 50%;
+  width: 400px;
+  height: 300px;
+  border-radius: 80%;
 }
 
 .icon {
@@ -330,8 +330,8 @@ li {
   .avatar {
     padding-top: 10px;
     vertical-align: middle;
-    width: 120px;
-    height: 170px;
+    width: 300px;
+    height: 200px;
     border-radius: 50%;
   }
 
