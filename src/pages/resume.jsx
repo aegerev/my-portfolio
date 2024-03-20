@@ -11,6 +11,7 @@ function currVitae() {
  
         <div classname = 'experience'>
         <h1> EXPERIENCE </h1>
+        <div>
         <h2> JRH Electronics, Swedesboro, NJ — IT Contractor </h2>
         <h3>September 2021 - Present</h3>
         <p> Started as an intern; after a six-month period, was hired as a contractor.</p>
@@ -20,11 +21,24 @@ function currVitae() {
             <li>Participated in a data extraction process from the company's SAP system for the website.</li>
             <li>Wrote Excel VBA functions for exchanging data and creating files for uploading to the website.</li>
             <li> Uploading new materials to the website and updating existing materials with live data.</li>
-            <p>-----------------------------------------------------------------------------------------</p>
+        </div>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+
+        <div>
         <h2> eDataRun, Cherry Hill, NJ </h2>
         <h3>June 2016 - August 2020 </h3>
             <li>Assisted with developing an Android, Java-based, secured texting app in Google Play. </li>
-            <p>-----------------------------------------------------------------------------------------</p>
+        </div>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+
         <h2> Cherry Hill Public Library, Cherry Hill, NJ — Volunteer Library Assistant </h2>
         <h3> June 2015 - August 2015 </h3>
             <li>Updated library database with customer information. </li>

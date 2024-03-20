@@ -274,8 +274,8 @@ li {
 
 .avatar {
   vertical-align: middle;
-  width: 400px;
-  height: 300px;
+  width: 50%;
+  height: 100%;
   border-radius: 80%;
 }
 
