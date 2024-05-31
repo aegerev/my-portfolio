@@ -44,6 +44,18 @@ function aboutMe() {
                             <br />
 
                             <div className='grid-container-profile'>
+
+
+                            <div className="grid-item">
+                                    <div className='university'>Massachusetts Institute of Technology (through Emeritus/xPRO)</div>
+                                    <div className='concentration'>MERN Stack Web Developer</div>
+                                </div>
+
+                                <div className="grid-item">
+                                    <div className='university'>University of Pennsylvania (through edX)</div>
+                                    <div className='concentration'>Full-Stack Web Developer</div>
+                                </div>
+
                                 <div className='grid-item'>
                                     <div className='university'>Rowan University, Glassboro, NJ</div>
                                     <div className='concentration'>B.A. in Computing and Informatics</div>
@@ -62,10 +74,7 @@ function aboutMe() {
                                     <a href='https://www.camdencc.edu/' target='_blank'><img className='university-logo' src={TripleC} /></a>
                                 </div>
 
-                                <div className="grid-item">
-                                    <div className='university'>University of Pennsylvania (through edX)</div>
-                                    <div className='concentration'>Full-Stack Web Developer</div>
-                                </div>
+                               
 
                                 <div className="grid-item">
                                     <a href='https://bootcamp.sas.upenn.edu/' target='_blank'><img className='university-logo' src={UPennBootcamp} /></a>
