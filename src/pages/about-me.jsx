@@ -45,12 +45,6 @@ function aboutMe() {
 
                             <div className='grid-container-profile'>
 
-
-                            <div className="grid-item">
-                                    <div className='university'>Massachusetts Institute of Technology (through Emeritus/xPRO)</div>
-                                    <div className='concentration'>MERN Stack Web Developer</div>
-                                </div>
-
                                 <div className="grid-item">
                                     <div className='university'>University of Pennsylvania (through edX)</div>
                                     <div className='concentration'>Full-Stack Web Developer</div>
