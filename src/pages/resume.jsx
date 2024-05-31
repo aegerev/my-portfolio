@@ -47,6 +47,12 @@ function currVitae() {
 
         <div classname = 'education'>
         <h1> EDUCATION </h1>
+        <h2> Massachusets Institute of Technology, in collaboration with xPRO and Emeritus — 
+            The MERN Stack Boot Camp certification </h2>
+        <h3>May 2024 - Present</h3>
+            <p>-----------------------------------------------------------------------------------------</p>
+
+            <p>-----------------------------------------------------------------------------------------</p>
         <h2> University of Pennsylvania, College of Liberal and Professional Studies (LPS) — 
             Coding Boot Camp certification </h2>
         <h3>September 2023 - March 2024</h3>
