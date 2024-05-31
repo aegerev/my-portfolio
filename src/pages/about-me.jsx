@@ -51,7 +51,7 @@ function aboutMe() {
                                 </div>
 
                                 <div className='grid-item'>
-                                    <a href='https://bootcamp.sas.upenn.edu/' target='_blank'><img className='university-logo' src={MITxPRO} /></a>
+                                    <a href='https://xpro.mit.edu/' target='_blank'><img className='university-logo' src={MITxPRO} /></a>
                                 </div>
 
                                 <div className="grid-item">
