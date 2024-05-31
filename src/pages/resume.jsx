@@ -43,18 +43,15 @@ function currVitae() {
         <h3> June 2015 - August 2015 </h3>
             <li>Updated library database with customer information. </li>
             <li>Responded to customer inquiries and assisted customers with prize redemption.</li>
-            <p>-----------------------------------------------------------------------------------------</p>
-            <p>-----------------------------------------------------------------------------------------</p>
         </div>
 
         <div classname = 'education'>
         <h1> EDUCATION </h1>
         <h2> University of Pennsylvania, College of Liberal and Professional Studies (LPS) — 
-            Coding Boot Camp certification (in progress) </h2>
-        <h3>September 2023 - Present</h3>
+            Coding Boot Camp certification </h2>
+        <h3>September 2023 - March 2024</h3>
             <p>-----------------------------------------------------------------------------------------</p>
-        <h2> Penn State University, World Campus — ERP with SAP certification (in progress) </h2>
-        <h3>January 2023 - present  </h3>
+
             <p>-----------------------------------------------------------------------------------------</p>
         <h2> Rowan University, Glassboro, NJ — B.A. in Computing and Informatics </h2>
         <h3> Concentration in Mobile Development;  minor in Spanish </h3>
