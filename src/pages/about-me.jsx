@@ -1,7 +1,7 @@
 import React from 'react';
 import ProfilePic from '../assets/images/profilepic.jpg';
 import RowanOwl from '../assets/images/rowan.png';
-import TripleC from '../assets/images/camdencc.png';
+import MITxPRO from '../assets/images/MIT xPRO.png';
 import UPennBootcamp from '../assets/images/upennbootcamp.jpg';
 import '../App.css';
 
@@ -45,9 +45,22 @@ function aboutMe() {
 
                             <div className='grid-container-profile'>
 
+                            <div className="grid-item">
+                                    <div className='university'>Massachusetts Institute of Technology (through Emeritus/xPRO)</div>
+                                    <div className='concentration'>MERN Stack Web Developer</div>
+                                </div>
+
+                                <div className='grid-item'>
+                                    <a href='https://bootcamp.sas.upenn.edu/' target='_blank'><img className='university-logo' src={MITxPRO} /></a>
+                                </div>
+
                                 <div className="grid-item">
                                     <div className='university'>University of Pennsylvania (through edX)</div>
                                     <div className='concentration'>Full-Stack Web Developer</div>
+                                </div>
+
+                                <div className='grid-item'>
+                                    <a href='https://bootcamp.sas.upenn.edu/' target='_blank'><img className='university-logo' src={UPennBootcamp} /></a>
                                 </div>
 
                                 <div className='grid-item'>
@@ -58,27 +71,13 @@ function aboutMe() {
                                 <div className='grid-item'>
                                     <a href='https://www.rowan.edu/' target='_blank'><img className='university-logo' src={RowanOwl} /></a>
                                 </div>
-
-                                <div className="grid-item">
-                                    <div className='university'>Camden County College</div>
-                                    <div className='concentration'>Associate in Applied Science - Computer Information Systems</div>
-                                </div>
-
-                                <div className="grid-item">
-                                    <a href='https://www.camdencc.edu/' target='_blank'><img className='university-logo' src={TripleC} /></a>
-                                </div>
-
                                
-
-                                <div className="grid-item">
-                                    <a href='https://bootcamp.sas.upenn.edu/' target='_blank'><img className='university-logo' src={UPennBootcamp} /></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
     </React.Fragment>
     );
 };
