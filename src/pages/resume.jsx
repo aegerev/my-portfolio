@@ -1,117 +1,148 @@
-import ProfilePic from '../assets/images/profilepic.jpg';
+import React from "react";
+import {
+  MDBCard,
+  MDBCardBody,
+  MDBCardTitle,
+  MDBCardText,
+  MDBBtn,
+  MDBCardFooter,
+  MDBListGroup,
+  MDBListGroupItem,
+} from "mdb-react-ui-kit";
+
 
 function currVitae() {
-    return (
-        <>
-        <div>
-        <img className='avatar' src={ProfilePic} width = '50%' height = '100%'/>
-        <h1> Alexander Egerev </h1>
-        <p> Computing and Informatics Specialist</p>
-        </div>
- 
-        <div classname = 'experience'>
-        <h1> EXPERIENCE </h1>
-        <div>
-        <h2> JRH Electronics, Swedesboro, NJ — IT Contractor </h2>
-        <h3>September 2021 - Present</h3>
-        <p> Started as an intern; after a six-month period, was hired as a contractor.</p>
-            <li>Built e-commerce jrhelec.com e-commerce website based on WordPress, PHP, JavaScript, and 
-                MySQL. </li>
-            <li>Created Python APIs for getting data from vendors and pushing gathered data to the website.</li>
-            <li>Participated in a data extraction process from the company's SAP system for the website.</li>
-            <li>Wrote Excel VBA functions for exchanging data and creating files for uploading to the website.</li>
-            <li> Uploading new materials to the website and updating existing materials with live data.</li>
-        </div>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
+  return (
+    <div>
+      <MDBCard>
+        <MDBCardBody>
+          <h1 style ={{fontWeight: "bold", textAlign: "center"}}>Alexander Egerev</h1>
+          <p style ={{textAlign: "center"}}> Computing and Informatics Specialist </p>
+        </MDBCardBody>
+      </MDBCard>
 
-        <div>
-        <h2> eDataRun, Cherry Hill, NJ </h2>
-        <h3>June 2016 - August 2020 </h3>
-            <li>Assisted with developing an Android, Java-based, secured texting app in Google Play. </li>
-        </div>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-
-        <h2> Cherry Hill Public Library, Cherry Hill, NJ — Volunteer Library Assistant </h2>
-        <h3> June 2015 - August 2015 </h3>
-            <li>Updated library database with customer information. </li>
-            <li>Responded to customer inquiries and assisted customers with prize redemption.</li>
-        </div>
-
-        <div classname = 'education'>
-        <h1> EDUCATION </h1>
-        <h2> Massachusets Institute of Technology, in collaboration with xPRO and Emeritus — 
-            The MERN Stack Boot Camp certification </h2>
-        <h3>May 2024 - Present</h3>
-            <p>-----------------------------------------------------------------------------------------</p>
-
-            <p>-----------------------------------------------------------------------------------------</p>
-        <h2> University of Pennsylvania, College of Liberal and Professional Studies (LPS) — 
-            Coding Boot Camp certification </h2>
-        <h3>September 2023 - March 2024</h3>
-            <p>-----------------------------------------------------------------------------------------</p>
-
-            <p>-----------------------------------------------------------------------------------------</p>
-        <h2> Rowan University, Glassboro, NJ — B.A. in Computing and Informatics </h2>
-        <h3> Concentration in Mobile Development;  minor in Spanish </h3>
-        <h4> September 2020 - May 2023 </h4>
-        <h5> GPA: 3.97 </h5>
-            <p>-----------------------------------------------------------------------------------------</p>
-        <h2> Camden County College, Blackwood, NJ — 
-             Associate in Applied Science - Computer Information Systems </h2>
-        <h3> June 2016 - August 2020 </h3>
-        <h4> September 2020 - May 2023 </h4>
-        <h5> GPA: 3.79 </h5>
-        <p>-----------------------------------------------------------------------------------------</p>
-        <p>-----------------------------------------------------------------------------------------</p>
-        </div>
+      <MDBCard>
+        <MDBListGroup flush>
+          <MDBListGroupItem>
+            <div>
+              <span style={{ fontWeight: "bold", fontSize: "24px" }}>
+                 EXPERIENCE 
+              </span>
+              <br />
+              <h2> JRH Electronics, Swedesboro, NJ — IT Contractor </h2>
+              <h3>September 2021 - Present</h3>
+                 <p> Started as an intern; after a six-month period, was hired as a contractor.</p>
+            <ul>
+                <li>Built e-commerce jrhelec.com e-commerce website based on WordPress, PHP, JavaScript, and 
+                    MySQL. </li>
+                <li>Created Python APIs for getting data from vendors and pushing gathered data to the website.</li>
+                <li>Participated in a data extraction process from the company's SAP system for the website.</li>
+                <li>Wrote Excel VBA functions for exchanging data and creating files for uploading to the website.</li>
+                <li>Uploading new materials to the website and updating existing materials with live data.</li>
+            </ul> 
         
-        <div classname = 'skills'>
-        <h1> SKILLS </h1>
-        <li> Knowledge of business, programming, and application software for a business/organizational IT 
-             environment</li>
-        <li>Analysis and  design of information systems and database solutions </li>
-        <li>Applying state-of-the-art programming techniques and application software to solve 
-            business/organizational information systems issues </li>
-        <p>-----------------------------------------------------------------------------------------</p>
-        <p>-----------------------------------------------------------------------------------------</p>
-        </div>
+        <br />
 
-        <div classname = 'programming-languages'>
-        <h1> PROGRAMMING LANGUAGES </h1>
-        <li> Java </li>
-        <li>C++ </li>
-        <li>VBA </li>
-        <li> Python </li>
-        <li> Matlab </li>
-        <li> R </li>
-        <li> HTML5 </li>
-        <li> CSS3 </li>
-        <li> JavaScript </li>
-        <li> jQuery </li>
-        <li> Command Line </li>
-        <li> API consumption </li>
-        <li> Node.js server code </li>
-        <li> MySQL </li>
-        <li> React </li>
-        <li> Github </li>
-        <li> Progressive Web Applications </li>
-        <p>-----------------------------------------------------------------------------------------</p>
-        <p>-----------------------------------------------------------------------------------------</p>
-        </div>
+                <h2> eDataRun, Cherry Hill, NJ </h2>
+                <h3>June 2016 - August 2020 </h3>
+                <ul>
+                    <li>Assisted with developing an Android, Java-based, secured texting app in Google Play. </li>   
+                </ul>
+        <br />
 
-        <a href = "https://github.com/upennbootcamp23/my-portfolio/blob/main/src/assets/Egerev_Alexander_Resume2023.docx.pdf">
+              
+                <h2> Cherry Hill Public Library, Cherry Hill, NJ — Volunteer Library Assistant </h2>
+                <h3> June 2015 - August 2015 </h3>
+                <ul>
+                    <li>Updated library database with customer information. </li>
+                    <li>Responded to customer inquiries and assisted customers with prize redemption.</li> 
+                </ul>
+        <br />
+            </div>
+          </MDBListGroupItem>
+{/* ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- */}
+          <MDBListGroupItem>
+            {" "}
+            <div>
+              <span style={{ fontWeight: "bold", fontSize: "24px" }}>
+                EDUCATION 
+              </span>
+              {" "}
+        <br />
+                <h2> Massachusets Institute of Technology, in collaboration with xPRO and Emeritus — 
+                   The MERN Stack Boot Camp certification </h2>
+                <h4>May 2024 - Present</h4>
+        <br />
+
+                <h2> University of Pennsylvania, College of Liberal and Professional Studies (LPS) — 
+                    Coding Boot Camp certification </h2>
+                <h4>September 2023 - March 2024</h4>
+        <br />
+
+                <h2> Rowan University, Glassboro, NJ — B.A. in Computing and Informatics </h2>
+                <h3> Concentration in Mobile Development;  minor in Spanish </h3>
+                <h4> September 2020 - May 2023 </h4>
+                <h5> GPA: 3.97 </h5> 
+        <br />
+
+               <h2> Camden County College, Blackwood, NJ — 
+                    Associate in Applied Science - Computer Information Systems </h2>
+               <h3> June 2016 - August 2020 </h3>
+               <h4> September 2020 - May 2023 </h4>
+               <h5> GPA: 3.79 </h5> 
+        <br />
+            </div>
+          </MDBListGroupItem>
+
+          <MDBListGroupItem>
+            {" "}
+            <div>
+              <span style={{ fontWeight: "bold", fontSize: "24px" }}>
+              SKILLS 
+              </span>{" "}
+        <br />
+
+        <ul>
+            <li> Knowledge of business, programming, and application software for a business/organizational IT 
+                environment</li>
+            <li>Analysis and  design of information systems and database solutions </li>
+            <li>Applying state-of-the-art programming techniques and application software to solve 
+                business/organizational information systems issues </li>
+        </ul>
+        <br />
+            </div>
+          </MDBListGroupItem>
+
+          <MDBListGroupItem>
+            {" "}
+            <div>
+              <span style={{ fontWeight: "bold", fontSize: "24px" }}>
+              PROGRAMMING LANGUAGES
+              </span>{" "}
+              <br />
+              Java  <br />
+              C++ <br />
+              HTML5 <br />
+              CSS3  <br />
+              JavaScript  <br />
+              Command Line <br />
+              jQuery  <br />
+              Node.js server code <br />
+              MySQL  <br />
+              React  <br />
+              Github  <br />
+              Progressive Web Applications <br />
+            </div>
+          </MDBListGroupItem>
+        </MDBListGroup>
+      </MDBCard>
+
+      <a href = "https://github.com/upennbootcamp23/my-portfolio/blob/main/src/assets/Egerev_Alexander_Resume2023.docx.pdf">
             VIEW FULL RESUME </a>
-        </>
-        
-    )
-};
+    </div>
+
+    
+  );
+}
 
 export default currVitae;
