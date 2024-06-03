@@ -274,9 +274,9 @@ li {
 
 .avatar {
   vertical-align: middle;
-  width: 50%;
-  height: 100%;
-  border-radius: 80%;
+  width: 80px;
+  height: 320px;
+  border-radius: 800px;
 }
 
 .icon {

@@ -72,6 +72,9 @@ function aboutMe() {
                                     <a href='https://www.rowan.edu/' target='_blank'><img className='university-logo' src={RowanOwl} /></a>
                                 </div>
                                
+                                <a href = "https://github.com/upennbootcamp23/my-portfolio/blob/main/src/assets/Egerev_Alexander_Resume2023.docx.pdf">
+                                View Full Resume Here </a>
+
                                 </div>
                             </div>
                         </div>
