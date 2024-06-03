@@ -1,6 +1,7 @@
 # Alexander Egerev's REACT Portfolio
 
-![image](https://github.com/upennbootcamp23/my-portfolio/assets/143010411/5c96a348-b77b-4477-85c1-b7e8ff2a72aa)
+![image](https://github.com/upennbootcamp23/my-portfolio/assets/143010411/71a2040a-35ed-47af-b003-cb912a00848f)
+
 
 
 
