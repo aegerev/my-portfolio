@@ -29,8 +29,17 @@ function currVitae() {
                  EXPERIENCE 
               </span>
               <br />
+              <h2> Glenair Stock MERN Project (working title), Swedesboro, NJ — IT Contractor </h2>
+              <h3>March 2024 - Present</h3>
+            <ul>
+                <li>Helped build an e-commerce website that is almost the same as <a href="https://jrhelec.com/"> JRH Electronics e-commerce website</a>, but dedicated solely to the Glenair Stock. </li>
+                <li>Utilized MongoDB to obtain data, such as name, series number, etc.</li>
+                <li>Utilized React to create the front-end of the page.</li>
+                <li>Utilized CSS to style the website.</li>
+            </ul> 
+              <br />
               <h2> JRH Electronics, Swedesboro, NJ — IT Contractor </h2>
-              <h3>September 2021 - Present</h3>
+              <h3>September 2021 - June 2024</h3>
                  <p> Started as an intern; after a six-month period, was hired as a contractor.</p>
             <ul>
                 <li>Built e-commerce jrhelec.com e-commerce website based on WordPress, PHP, JavaScript, and 
@@ -93,7 +102,7 @@ function currVitae() {
         <br />
             </div>
           </MDBListGroupItem>
-
+{/* ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- */}
           <MDBListGroupItem>
             {" "}
             <div>
@@ -112,7 +121,7 @@ function currVitae() {
         <br />
             </div>
           </MDBListGroupItem>
-
+{/* ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- */}
           <MDBListGroupItem>
             {" "}
             <div>
@@ -132,12 +141,13 @@ function currVitae() {
               React  <br />
               Github  <br />
               Progressive Web Applications <br />
+              MERN <br />
             </div>
           </MDBListGroupItem>
         </MDBListGroup>
       </MDBCard>
 
-      <a href = "https://github.com/upennbootcamp23/my-portfolio/blob/main/src/assets/Egerev_Alexander_Resume2023.docx.pdf">
+      <a href = "https://www.wildkratts.com/">
             VIEW FULL RESUME </a>
     </div>
 
