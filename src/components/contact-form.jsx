@@ -50,22 +50,22 @@ function communicaForm() {
     <Form onSubmit={sendEmail} id="contactForm">
       <Form.Group controlId="name">
         <Form.Label>Your Name</Form.Label>
-        <Form.Control required name="name" placeholder="Jane Doe" onBlur={handleChange} />
+        <Form.Control required name="name" placeholder="Alex Egerev" onBlur={handleChange} />
       </Form.Group>
 
       <Form.Group controlId="email">
         <Form.Label>Your Email</Form.Label>
-        <Form.Control required name="email" type="email" placeholder="jdoe@gmail.com"  onBlur={handleChange} />
+        <Form.Control required name="email" type="email" placeholder="aegerev@gmail.com"  onBlur={handleChange} />
       </Form.Group>
 
       <Form.Group controlId="subject">
         <Form.Label>Subject</Form.Label>
-        <Form.Control required name="subject" placeholder="Subject" onBlur={handleChange} />
+        <Form.Control required name="subject" placeholder="RE: " onBlur={handleChange} />
       </Form.Group>
 
       <Form.Group controlId="message">
         <Form.Label>Message</Form.Label>
-        <Form.Control required name="message" as="textarea" rows="5" placeholder="Message" onBlur={handleChange} />
+        <Form.Control required name="message" as="textarea" rows="5" placeholder="Your Message" onBlur={handleChange} />
       </Form.Group>
 
       {formMessage && <p className="form-message">{formMessage}</p>}
