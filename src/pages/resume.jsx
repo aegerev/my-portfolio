@@ -147,7 +147,7 @@ function currVitae() {
         </MDBListGroup>
       </MDBCard>
 
-      <a href = "https://www.wildkratts.com/">
+      <a href = "https://github.com/upennbootcamp23/my-portfolio/blob/main/src/assets/Egerev_Alexander_Resume2024.docx.pdf">
             VIEW FULL RESUME </a>
     </div>
 
