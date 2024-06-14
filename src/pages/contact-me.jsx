@@ -34,11 +34,11 @@ function contactMe() {
                         </p>
 
                         <p>
-                            <a href='https://github.com/upennbootcamp23' target='_blank'>
+                            <a href='https://github.com/aegerev' target='_blank'>
                                 <span className = "pr-3">
                                     <FaGithub/>
                                 </span>
-                                upennbootcamp23
+                                aegerev
                             </a>
                         </p>
                         

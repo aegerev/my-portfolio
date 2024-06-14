@@ -1,11 +1,5 @@
 # Alexander Egerev's REACT Portfolio
 
-![image](https://github.com/upennbootcamp23/my-portfolio/assets/143010411/71a2040a-35ed-47af-b003-cb912a00848f)
-
-
-
-
-
 ## Description
 
 This project was created to show how much I've "grown" since the first (or second) project. 
