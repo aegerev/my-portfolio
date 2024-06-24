@@ -33,6 +33,8 @@ function aboutMe() {
                                         <li> Java </li>
                                         <li> C++ </li>
                                     Aside from coding, I like to play chess, travel, and draw.
+                                    <br/>
+                                    I also teach English through Preply.
                                 </p>
                             </div>
                         </div>
