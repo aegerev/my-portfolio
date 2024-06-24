@@ -2,10 +2,6 @@ import React from "react";
 import {
   MDBCard,
   MDBCardBody,
-  MDBCardTitle,
-  MDBCardText,
-  MDBBtn,
-  MDBCardFooter,
   MDBListGroup,
   MDBListGroupItem,
 } from "mdb-react-ui-kit";
@@ -29,13 +25,13 @@ function currVitae() {
                  EXPERIENCE 
               </span>
               <br />
-              <h2> Glenair Stock MERN Project (working title), Swedesboro, NJ — IT Contractor </h2>
+              <h2> Glenair Stock MERN Project (working title), Swedesboro, NJ — IT Contractor/Web Developer </h2>
               <h3>March 2024 - Present</h3>
             <ul>
-                <li>Helped build an e-commerce website that is almost the same as <a href="https://jrhelec.com/"> JRH Electronics e-commerce website</a>, but dedicated solely to the Glenair Stock. </li>
-                <li>Utilized MongoDB to obtain data, such as name, series number, etc.</li>
-                <li>Utilized React to create the front-end of the page.</li>
-                <li>Utilized CSS to style the website.</li>
+                <li>Help build an e-commerce website that is almost the same as <a href="https://jrhelec.com/"> JRH Electronics e-commerce website</a>, but dedicated solely to the Glenair Stock. </li>
+                <li>Utilize MongoDB to obtain data, such as name, series number, etc.</li>
+                <li>Utilize React to create the front-end of the page.</li>
+                <li>Utilize CSS to style the website.</li>
             </ul> 
               <br />
               <h2> JRH Electronics, Swedesboro, NJ — IT Contractor </h2>
