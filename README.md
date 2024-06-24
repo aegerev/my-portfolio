@@ -1,4 +1,5 @@
 # Alexander Egerev's REACT Portfolio
+![image](https://github.com/aegerev/my-portfolio/assets/143010411/cc59bcd9-ba32-4342-bc13-4f87414b8733)
 
 ## Description
 
