@@ -1,9 +1,9 @@
 import React, {useState} from 'react'
 import emailjs from '@emailjs/browser'
-import { validateEmail } from './utils/helper'
+import { validateEmail } from '../utils/helper'
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
-import './App.css';
+import '../App.css';
 
 function App() {
 const [formState, setFormState] = useState({name: '', email: '', subject: '', message: ''});
