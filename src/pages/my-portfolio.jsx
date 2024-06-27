@@ -129,7 +129,7 @@ function myPortfolio() {
 
   <tr>
     <td>The Classic Movie Finder</td>
-    <td><a href="MERN Project - Github">Github Repository</a></td>
+    <td><a href="https://github.com/aegerev/classic-movie-search">Github Repository</a></td>
     <td><a href="MERN Project - Link">Deployed Link</a></td>
   </tr>
 
