@@ -26,12 +26,12 @@ function currVitae() {
               </span>
               <br />
               <h2> Glenair Stock MERN Project (working title), Swedesboro, NJ — IT Contractor/Web Developer </h2>
-              <h3>March 2024 - Present</h3>
+              <h3>March 2024 - July 2024</h3>
             <ul>
-                <li>Help build an e-commerce website that is almost the same as <a href="https://jrhelec.com/"> JRH Electronics e-commerce website</a>, but dedicated solely to the Glenair Stock. </li>
-                <li>Utilize MongoDB to obtain data, such as name, series number, etc.</li>
-                <li>Utilize React to create the front-end of the page.</li>
-                <li>Utilize CSS to style the website.</li>
+                <li>Helped build an e-commerce website that is almost the same as <a href="https://jrhelec.com/"> JRH Electronics e-commerce website</a>, but dedicated solely to the Glenair Stock. </li>
+                <li>Utilized MongoDB to obtain data, such as name, series number, etc.</li>
+                <li>Utilized React to create the front-end of the page.</li>
+                <li>Utilized CSS to style the website.</li>
             </ul> 
               <br />
               <h2> JRH Electronics, Swedesboro, NJ — IT Contractor </h2>
@@ -39,7 +39,7 @@ function currVitae() {
                  <p> Started as an intern; after a six-month period, was hired as a contractor.</p>
             <ul>
                 <li>Built e-commerce jrhelec.com e-commerce website based on WordPress, PHP, JavaScript, and 
-                    MySQL. </li>
+                    MySQL, which generated millions of dollars in revenue. </li>
                 <li>Created Python APIs for getting data from vendors and pushing gathered data to the website.</li>
                 <li>Participated in a data extraction process from the company's SAP system for the website.</li>
                 <li>Wrote Excel VBA functions for exchanging data and creating files for uploading to the website.</li>
@@ -55,14 +55,6 @@ function currVitae() {
                 </ul>
         <br />
 
-              
-                <h2> Cherry Hill Public Library, Cherry Hill, NJ — Volunteer Library Assistant </h2>
-                <h3> June 2015 - August 2015 </h3>
-                <ul>
-                    <li>Updated library database with customer information. </li>
-                    <li>Responded to customer inquiries and assisted customers with prize redemption.</li> 
-                </ul>
-        <br />
             </div>
           </MDBListGroupItem>
 {/* ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- */}

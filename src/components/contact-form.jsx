@@ -38,7 +38,7 @@ function sendEmail(e) {
       console.log("Email Sent Successfully!", response.status, response.text);
     },
     function(err){
-      console.log("Your message couldn't be sent. Please email Ariel directly at arieldtriton@newatlantica.org", err)
+      console.log("Your message couldn't be sent. Please email Alex directly at alexandersegerev@gmail.com", err)
     }
   )
 }
@@ -55,12 +55,12 @@ function sendEmail(e) {
 <Form id="contactForm">
   <Form.Group controlId="name">
     <Form.Label>Name: </Form.Label>
-    <Form.Control required name="name" placeholder="Ariel D. Triton" onBlur = {handleChange}/>
+    <Form.Control required name="name" placeholder="Alexander E." onBlur = {handleChange}/>
   </Form.Group>
 
   <Form.Group controlId="email">
     <Form.Label>Email: </Form.Label>
-    <Form.Control required name="email" placeholder="arieldtriton@newatlantica.org" onBlur = {handleChange}/>
+    <Form.Control required name="email" placeholder="alexandersegerev@gmail.com" onBlur = {handleChange}/>
   </Form.Group>
 
   <Form.Group controlId="subject">
@@ -70,7 +70,7 @@ function sendEmail(e) {
 
   <Form.Group controlId="message">
     <Form.Label>Message: </Form.Label>
-    <Form.Control required name="message" as="textarea" rows="10" placeholder="Eric's best friend. Melody's friend. An aspriring computer programmer." onBlur = {handleChange}/>
+    <Form.Control required name="message" as="textarea" rows="10" placeholder="An aspriring computer programmer." onBlur = {handleChange}/>
   </Form.Group>
 
   {formMessage && <p className='form-message'>{formMessage}</p>}
