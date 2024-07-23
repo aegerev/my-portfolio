@@ -83,9 +83,9 @@ function currVitae() {
         <br />
 
                <h2> Camden County College, Blackwood, NJ — 
-                    Associate in Applied Science - Computer Information Systems </h2>
-               <h3> June 2016 - August 2020 </h3>
-               <h4> September 2020 - May 2023 </h4>
+                     </h2>
+               <h3> Associate in Applied Science - Computer Information Systems </h3>
+               <h4> September 2016 - June 2020 </h4>
                <h5> GPA: 3.79 </h5> 
         <br />
             </div>
